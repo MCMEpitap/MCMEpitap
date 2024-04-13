@@ -15,6 +15,3 @@
 [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Qiita&label=Follow%20MCMEpitap)](https://qiita.com/MCMEpitap)
 [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Zenn&label=Follow%20MCMEpitap)](https://zenn.dev/epitap)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=mcmepitap&icon=0&color=0)](https://visitcount.itsvg.in)
