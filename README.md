@@ -1,4 +1,3 @@
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dark"/>
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mcmepitap&theme=dark&show_icons=ture" />
@@ -10,6 +9,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20mcmepitap)](https://github.com/mcmepitap)
 
+[![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20epitap8)](https://twitter.com/epitap8)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
