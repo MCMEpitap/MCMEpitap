@@ -4,8 +4,12 @@
 <img alt="github Profile Summary Cards" width="50%" align=center src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcmepitap&theme=2077" /><img alt="github Profile Summary Cards" width="50%" align=center src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mcmepitap&theme=2077"
  /><br/>
 
+
+<p align="center"> 
 <img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dracula" />
 <img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=dracula&show_icons=ture&count_private=true" />
+
+</p>
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20MCMEpitap)](https://github.com/mcmepitap)
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20Epitap)](https://twitter.com/epitap8)
