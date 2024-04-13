@@ -1,10 +1,10 @@
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dark"/>
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=mcmepitap&theme=dark&show_icons=ture" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dark"/>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mcmepitap&theme=dark&show_icons=ture" />
 </p>
 
-<!--
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcmepitap&theme=2077
 **MCMEpitap/MCMEpitap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
