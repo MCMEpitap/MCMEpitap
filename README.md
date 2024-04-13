@@ -8,7 +8,6 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20mcmepitap)](https://github.com/mcmepitap)
-
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20epitap8)](https://twitter.com/epitap8)
 Here are some ideas to get you started:
 
