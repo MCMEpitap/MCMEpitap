@@ -1,6 +1,6 @@
 <img alt="github Profile Summary Cards" width="100%" align=center src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcmepitap&theme=2077" /><br/>
 
-<img alt="github Profile Summary Cards" width="100%" align=center src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcmepitap&theme=2077"
+<img alt="github Profile Summary Cards" width="50%" align=center src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcmepitap&theme=2077"
  /><br/>
 
 
