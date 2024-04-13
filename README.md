@@ -5,7 +5,8 @@
 <img alt="Top Langs" width="53.6%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dracula" />
 <img alt="github stats" width="44.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=dracula&show_icons=ture&count_private=true" />
 
-
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=onedark" />
+ <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mcmepitap&theme=onedark&show_icons=ture" />
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20MCMEpitap)](https://github.com/mcmepitap)
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20Epitap)](https://twitter.com/epitap8)
 [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Qiita&label=Follow%20MCMEpitap)](https://qiita.com/MCMEpitap)
