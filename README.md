@@ -10,8 +10,7 @@ http://github-profile-summary-cards.vercel.app/api/cards/profile-details?usernam
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20MCMEpitap)](https://github.com/mcmepitap)
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20Epitap)](https://twitter.com/epitap8)
 [![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Qiita&label=Follow%20MCMEpitap)](https://qiita.com/MCMEpitap)
-[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Zenn&label=Follow%20Epitap)](https://zenn.com/epitap)
-
+[![Qiita](https://img.shields.io/badge/--FFFFFF?style=social&logo=Zenn&label=Follow%20Epitap)](https://zenn.dev/epitap)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
