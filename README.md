@@ -3,7 +3,7 @@
   <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=mcmepitap&theme=dark&show_icons=ture" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?mcmepitap=vn7n24fzkq&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcmepitap&theme=default)
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20MCMEpitap)](https://github.com/mcmepitap)
 [![Twitter](https://img.shields.io/badge/--FFFFFF?style=social&logo=twitter&label=Follow%20Epitap)](https://twitter.com/epitap8)
