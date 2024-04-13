@@ -5,7 +5,8 @@
  /><br/>
 
 <p align="center"> 
-  <img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dark&hide_border=false" /><img alt="github stats"  width="50%" src="https://github-readme-stats.vercel.app/api?username=mcmepitap&theme=dark&show_icons=ture&hide_border=false&count_private=true" />
+  <img alt="Top Langs" width="45.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dark&hide_border=false" /><<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=dracula&show_icons=ture&count_private=true" />
+/>
 </p>
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20MCMEpitap)](https://github.com/mcmepitap)
