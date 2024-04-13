@@ -6,7 +6,7 @@
 
 
 <p align="center"> 
-<img alt="Top Langs" width="49.9%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=cobalt" /><img alt="github stats" width="50.1%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=cobalt&show_icons=ture&count_private=true" />
+<img alt="Top Langs" width="49.9%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dark" /><img alt="github stats" width="50.1%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=dark&show_icons=ture&count_private=true" />
 
 </p>
 
