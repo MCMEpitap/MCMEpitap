@@ -7,6 +7,8 @@
 <img alt="github Profile Summary Cards" width="50%" align=center src= "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mcmepitap&theme=2077"
  /><br/>
 
+<img alt="github Profile Summary Cards" width="50%" align=center src= "http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mcmepitap&theme=2077"
+ /><br/>
 
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20MCMEpitap)](https://github.com/mcmepitap)
