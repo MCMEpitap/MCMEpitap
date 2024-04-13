@@ -6,8 +6,8 @@
 
 
 <p align="center"> 
-<img alt="Top Langs" width="44.5%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dracula" />
-<img alt="github stats" width="53.3%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=dracula&show_icons=ture&count_private=true" />
+<img alt="Top Langs" width="50%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dracula" />
+<img alt="github stats" width="50%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=dracula&show_icons=ture&count_private=true" />
 
 </p>
 
