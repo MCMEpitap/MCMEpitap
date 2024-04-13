@@ -1,4 +1,4 @@
-<img alt="github Profile Summary Cards" width="98.3%" align=center src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcmepitap&theme=2077" /><br/>
+<img alt="github Profile Summary Cards" width="100%" align=center src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mcmepitap&theme=2077" /><br/>
 
 
 
