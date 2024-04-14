@@ -7,10 +7,11 @@
 
 <p align="center"> 
 <img alt="Top Langs" width="49.9%" src="https://github-readme-stats-vercel-wea9.vercel.app/api/top-langs/?username=mcmepitap&layout=compact&show_icons=true&theme=dark" /><img alt="github stats" width="50.1%" src="https://github-readme-stats-vercel-wea9.vercel.app/api?username=mcmepitap&theme=dark&show_icons=ture&count_private=true" />
+ <img alt="trophy" width="50.1%" src=https://github-profile-trophy.vercel.app/?username=mcmepitap&theme=dark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mcmepitap&theme=dark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](
 
 
 [![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20MCMEpitap)](https://github.com/mcmepitap)
